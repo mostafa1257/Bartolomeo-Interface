@@ -1,0 +1,1 @@
+/usr/bin/msp430-gcc -O3 -DNDEBUG -mmcu=msp430f5438 -Wl,--relax,--gc-sections CMakeFiles/main.elf.dir/main.c.obj -o main.elf 

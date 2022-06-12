@@ -1,0 +1,5 @@
+/home/mostafa/msp430_dev/build/CMakeFiles/main.dir
+/home/mostafa/msp430_dev/build/CMakeFiles/main.elf.dir
+/home/mostafa/msp430_dev/build/CMakeFiles/upload_main.dir
+/home/mostafa/msp430_dev/build/CMakeFiles/edit_cache.dir
+/home/mostafa/msp430_dev/build/CMakeFiles/rebuild_cache.dir
